@@ -1,0 +1,2 @@
+# developerstricks
+sample readme file
